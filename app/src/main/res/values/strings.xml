@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework4</string>
+    <string name="heading">Hello!</string>
+    <string name="label_text">lets introduce</string>
+    <string name="full_name">Your full name</string>
+    <string name="user_name">Username</string>
+    <string name="next">Next</string>
+</resources>
